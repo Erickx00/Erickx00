@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D4429,100:39D353&height=210&section=header&text=Erick%20Lucas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Backend%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=39D353&text=Erick%20Lucas" width="100%"/>
 
 <img src="https://img.shields.io/badge/🇧🇷_Lendo_em-Português-0D1117?style=for-the-badge&labelColor=39D353&color=0D1117" />
 <a href="./README.md"><img src="https://img.shields.io/badge/🇺🇸_Read_in-English-39D353?style=for-the-badge&labelColor=0D1117" /></a>
@@ -38,7 +38,7 @@ public class ErickLucas implements DesenvolvedorBackend {
 - 🌱 Sempre estudando, evoluindo e construindo novos projetos a cada dia
 
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="340">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="340" alt="Ilustração de tech stack flutuando">
 </div>
 
 ---
@@ -72,21 +72,21 @@ public class ErickLucas implements DesenvolvedorBackend {
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Erickx00&show_icons=true&theme=github-dark&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0D1117&count_private=false&include_all_commits=false" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Erickx00&show_icons=true&theme=github-dark&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0D1117&count_private=false&include_all_commits=false&cache_seconds=86400" width="100%" alt="Estatísticas do GitHub de Erick"/>
 </td>
 <td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickx00&layout=compact&theme=github-dark&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0D1117" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickx00&layout=compact&theme=github-dark&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0D1117&cache_seconds=86400" width="100%" alt="Linguagens mais usadas"/>
 </td>
 </tr>
 </table>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Erickx00&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Erickx00&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="70%" alt="Streak de contribuições"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickx00&theme=react-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=39D353&point=39D353&area=true&area_color=39D353&title_color=39D353" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickx00&theme=react-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=39D353&point=39D353&area=true&area_color=39D353&title_color=39D353" width="90%" alt="Gráfico de atividade"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260" alt="Ilustração 3D de estatísticas">
 
 </div>
 
