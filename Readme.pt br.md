@@ -69,26 +69,31 @@ public class ErickLucas implements DesenvolvedorBackend {
 
 <div align="center">
 
+<!-- Cards gerados pelo GitHub Actions (.github/workflows/profile-summary-cards.yml) e salvos no próprio repositório -->
 <table>
 <tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=Erickx00&show_icons=true&theme=github-dark&hide_border=true&title_color=39D353&icon_color=39D353&text_color=c9d1d9&bg_color=0D1117&count_private=false&include_all_commits=false&cache_seconds=86400" width="100%" alt="Estatísticas do GitHub de Erick"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="Erick's GitHub stats"/>
 </td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickx00&layout=compact&theme=github-dark&hide_border=true&title_color=39D353&text_color=c9d1d9&bg_color=0D1117&cache_seconds=86400" width="100%" alt="Linguagens mais usadas"/>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Top languages"/>
 </td>
 </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=Erickx00&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="70%" alt="Streak de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=Erickx00&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="70%" alt="GitHub streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickx00&theme=react-dark&hide_border=true&bg_color=0D1117&color=c9d1d9&line=39D353&point=39D353&area=true&area_color=39D353&title_color=39D353" width="90%" alt="Gráfico de atividade"/>
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/39D353/Erickx00" width="90%" alt="Contribution chart"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260" alt="Ilustração 3D de estatísticas">
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="260" alt="3D stats illustration">
 
 </div>
+
+
 
 ### ✍️ Frase Aleatória Dev
 
