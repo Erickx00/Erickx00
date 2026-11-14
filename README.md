@@ -71,14 +71,19 @@ public class ErickLucas implements BackendDeveloper {
 
 <!-- Cards gerados pelo GitHub Actions (.github/workflows/profile-summary-cards.yml) e salvos no próprio repositório -->
 <table>
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="Erick's GitHub stats"/>
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Top languages"/>
-</td>
-</tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile details">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%" alt="GitHub stats">
+    </td>
+    <td align="center" width="50%">
+      <img src="https://raw.githubusercontent.com/Erickx00/Erickx00/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="100%" alt="Top languages">
+    </td>
+  </tr>
 </table>
 
 <img src="https://streak-stats.demolab.com?user=Erickx00&theme=dark&hide_border=true&background=0D1117&stroke=39D353&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=c9d1d9&dates=8b949e" width="70%" alt="GitHub streak stats"/>
