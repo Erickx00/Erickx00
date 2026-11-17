@@ -48,19 +48,19 @@ public class ErickLucas implements DesenvolvedorBackend {
 **Back-end — Foco Principal**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,mongodb&theme=dark" />
 </p>
 
 **Front-end**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript&theme=dark" />
 </p>
 
 **Ferramentas**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker&theme=dark" />
 </p>
 
 ---
